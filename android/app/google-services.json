@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1018761713129",
+    "project_id": "chef-user-app",
+    "storage_bucket": "chef-user-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018761713129:android:0f6647ec16aba00846a778",
+        "android_client_info": {
+          "package_name": "com.cookedhome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018761713129-p455jsbdgfau7nmmm90nseb5dtbg26e3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPULdqoRQrP1oBvf79H_gm-tYu-emQISY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018761713129-p455jsbdgfau7nmmm90nseb5dtbg26e3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018761713129:android:11135976fc2ad9f746a778",
+        "android_client_info": {
+          "package_name": "com.cookedhomeuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018761713129-p455jsbdgfau7nmmm90nseb5dtbg26e3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPULdqoRQrP1oBvf79H_gm-tYu-emQISY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018761713129-p455jsbdgfau7nmmm90nseb5dtbg26e3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
